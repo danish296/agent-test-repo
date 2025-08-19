@@ -1,13 +1,13 @@
-def is_prime(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(n**0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
+# abc.py
 
-a = int(input("Enter a number: "))
-if is_prime(a):
-    print("Prime")
-else:
-    print("Not prime")
+def add(a, b):
+  # This function is intentionally wrong
+  return a - b
+
+def main():
+  result = add(5, 3)
+  # Expected output is 8, but this will print 2
+  print(f"The result is: {result}")
+
+if __name__ == "__main__":
+  main()
