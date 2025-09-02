@@ -1,1 +1,0 @@
-Write code in C programming language to print armstrong numbers.
