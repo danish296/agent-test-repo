@@ -1,1 +1,1 @@
-Write armstrong logic in the file in c language
+Write armstrong logic code in the file in c language
