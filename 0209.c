@@ -1,1 +1,10 @@
-Code in c language to print from 1 to 10 in sequence. It should take input from the user and print the table. Name the file: "0209.c"
+```c
+#include <stdio.h>
+
+int main() {
+  for (int i = 1; i <= 10; i++) {
+    printf("%d\n", i);
+  }
+  return 0;
+}
+```
