@@ -1,1 +1,1 @@
-Write c program logic for printing armstrong numbers in the file
+Write code in C programming language to print armstrong numbers.
