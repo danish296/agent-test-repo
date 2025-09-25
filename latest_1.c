@@ -2,7 +2,7 @@
 
 int main() {
   int num1, num2, product;
-
+  printf("Program started successfully.\n");
   printf("Enter two integers: ");
   scanf("%d %d", &num1, &num2);
 
