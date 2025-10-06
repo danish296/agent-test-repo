@@ -1,1 +1,17 @@
-Agent is working
+#include <stdio.h>
+
+int main() {
+  int num1, num2, product;
+
+  // Input two numbers from the user
+  printf("Enter two integers: ");
+  scanf("%d %d", &num1, &num2);
+
+  // Calculate the product
+  product = num1 * num2;
+
+  // Print the result
+  printf("Product: %d\n", product);
+
+  return 0;
+}
