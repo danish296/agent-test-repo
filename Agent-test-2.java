@@ -1,1 +1,1 @@
-This is the content of Agent-test-2.java
+// This is a test file for the agent
