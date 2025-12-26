@@ -1,1 +1,2 @@
-Add real-time notifications: Removed WebSocket implementation, notification components, and related dependencies
+Commit Message: Fix API URL in production
+Diff: Changed API_URL in .env.production from localhost to actual domain
